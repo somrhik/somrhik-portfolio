@@ -4,7 +4,7 @@ A personal portfolio showcasing my technical skills, projects, education and cer
 
 ## Live Website
 
-[View Portfolio](YOUR_DEPLOYED_PORTFOLIO_URL)
+[View Portfolio](https://portfolio-two-sage-5va7vrgbyq.vercel.app/)
 
 ## Overview
 
